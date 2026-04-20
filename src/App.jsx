@@ -4,7 +4,7 @@ const App = () =>{
 
   return(
     <>
-     <h1>React Redux Tool Kit </h1>
+     <h1>React Redux Tool Kit V.01</h1>
     </>
   );
 }
